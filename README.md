@@ -36,7 +36,7 @@ The project outlines a method to scrape data from websites using `BeautifulSoup`
 
 You can install the required dependencies using the following command:
 
-``bash
+``
 pip install numpy matplotlib sklearn pywhatkit requests beautifulsoup4
 ``
 
